@@ -72,3 +72,4 @@ start.addEventListener('click', () => {
     update(selectedDate.getTime());
   }
 });
+
